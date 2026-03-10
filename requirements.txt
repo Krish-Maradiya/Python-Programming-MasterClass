@@ -1,0 +1,4 @@
+# Python dependencies for this repository
+
+flask
+requests
